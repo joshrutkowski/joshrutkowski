@@ -18,7 +18,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 - LinkedIn - [Joshua Rutkowski](https://www.linkedin.com/in/joshuarutkowski/)
-- Twitter - [@joshrutkowski](https://twitter.com/joshuarutkowski)
+- Twitter - [@joshuarutkowski](https://twitter.com/joshuarutkowski)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=joshrutkowski/joshrutkowski)
