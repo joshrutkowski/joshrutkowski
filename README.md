@@ -3,7 +3,7 @@
 ## 👉 About me
 I am a Husband, Father, Developer, and Veteran 🎖️. I am passionate about technologies and love to learn new things.
 
-## 👉 What I'm doing
+## 💻 What I'm doing
 Software Development Engineer Apprentice at Amazon. 
 
 
