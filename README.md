@@ -1,20 +1,11 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Josh! 👨‍💻
 
-## 👉 About Me
+## 👉 About me
 I am a Husband, Father, Developer, and Veteran 🎖️. I am passionate about technologies and love to learn new things.
 
+## 👉 What I'm doing
+Software Development Engineer Apprentice at Amazon. 
 
-## ⚡ Tech Stack
-
-Here are a few things I've picked up along my learning journey.
-
-* 🗣 JavaScript | React | Swift | Python 
-* 🌐 HTML | CSS
-* 🖇️ Django
-* 🛢️ MySQL | SQLite | CoreData
-* :octocat: Git | Github
-* ☁ Firebase
-* 💠 VS Code, IntelliJ, XCode
 
 ## 📫 Get in touch
 - LinkedIn - [Joshua Rutkowski](https://www.linkedin.com/in/joshuarutkowski/)
