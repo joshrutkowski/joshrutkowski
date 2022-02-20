@@ -4,7 +4,8 @@
 I am a Husband, Father, Developer, and Veteran 🎖️. I am passionate about technologies and love to learn new things.
 
 ## 💻 What I'm doing
-Software Development Engineer Apprentice at Amazon. 
+- Software Development Engineer at Amazon
+- Web3 fullstack development (ReactJS, NodeJS, Solidity)
 
 
 ## 📫 Get in touch
