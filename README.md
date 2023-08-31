@@ -5,12 +5,9 @@ I am a Husband, Father, Developer, and Veteran 🎖️. I am passionate about te
 
 ## 💻 What I'm doing
 - Software Development Engineer at Amazon
-- Web3 fullstack development (ReactJS, NodeJS, Solidity)
+- Rust development
 
 
 ## 📫 Get in touch
 - LinkedIn - [Joshua Rutkowski](https://www.linkedin.com/in/joshuarutkowski/)
 - Twitter - [@joshuarutkowski](https://twitter.com/joshuarutkowski)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=joshrutkowski/joshrutkowski)
